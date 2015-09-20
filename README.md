@@ -1,2 +1,1 @@
-# lifeplus
-# lifeplus
+Life Plus is a road safety response application we built in a 24 hrs hackathon conducted by keralaroadsafety authority, it includes an app which can be used to report accident of one's self and as well as others.. And a live website to give notification to the respective authorities
